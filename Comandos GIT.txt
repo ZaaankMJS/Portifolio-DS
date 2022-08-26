@@ -1,0 +1,5 @@
+
+UI -> Como o Usuario interage com o Produto -> Parte Física
+
+UX -> Qual é o Sentimento que o usuario leva dessa interação -> Parte Emocional
+
