@@ -4,7 +4,7 @@
 }
 /* Esta propriedade faz um degrade na pagina */
 body {
-  background-image: linear-gradient(180deg, purple, orange);
+  background-image: linear-gradient(180deg, rgb(27, 224, 126), rgb(0, 4, 255));
 }
 
 /* Esta propriedade muda a cor da pagina e cor do texto*/
@@ -58,13 +58,13 @@ main h1{
   padding: 30px;
 }
 
-.infos, .infos div{
+.infos{
   padding: 30px;
 }
 
 .infos img{
   align-items: center;
-  width: 30%;
+  width: 25%;
 }
 
 .link-social img{
@@ -73,4 +73,16 @@ main h1{
 
 .aprendendo{
   size: 300px;
+}
+
+.Foto1:hover{
+
+}
+
+.li{
+  color: white;
+}
+
+.infos img{
+  padding: 0 2px;
 }
