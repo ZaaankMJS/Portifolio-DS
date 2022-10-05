@@ -63,3 +63,73 @@ main div{
   color: white;
 }
 
+.imgs{
+  display: flex;
+  align-items: center;
+}
+
+.imgsCS{
+  width: 600px;
+  padding: 3px;
+}
+
+.imgsWord{
+  width: 520px;
+}
+
+.imgsCS:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsWord:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsJavaS:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsHTML5:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsCSS3:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsDatabase:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
+.imgsVirtual:hover{
+  transition: 1s;
+  background-color: aliceblue;
+  text-align: center;
+  font-size: 25px;
+  margin: 20px auto;
+}
+
